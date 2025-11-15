@@ -5,16 +5,16 @@ My custom and simplistic configuration for Waybar in Hyprland on Arch Linux.
 <img width="1070" height="53" alt="image" src="https://github.com/user-attachments/assets/bed264ea-c23a-49bf-97e4-7ebcee1f990f" />
 
 
-**Important packages:**
+### **Packages used in JSON modules:**
 
-   • **libpulse** -> specifically **pactl** (for scroll/click usage on pulseaudio and pulseaudio#microphone modules)
+   • **libpulse** -> specifically **pactl** (for scroll/click usage on ***pulseaudio*** and ***pulseaudio#microphone*** modules)
 
    • **pavucontrol** -> (for GUI audio/mic manager on click)
 
    • **impala** -> (for TUI network manager on click)
 
 
-**Installation Guide:**
+### **Installation Guide:**
 
 Copy and paste into your terminal and enjoy my config for waybar!
 ```bash
