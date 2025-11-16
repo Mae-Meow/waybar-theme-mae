@@ -56,7 +56,7 @@
     },
 
     "tray": {
-        "format": "", // an empty format will hide the module
+        "format": "", // an empty format will hide the module if there is no programs to display
         "icon-size": 12,
         "spacing": 10
     },
