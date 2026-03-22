@@ -62,7 +62,7 @@ tooltip {
 #workspaces button:hover {
     background: #d6acff;
     color: #636777;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 #window,
@@ -137,4 +137,9 @@ tooltip {
     border-right: 0px;
     border-radius: 0px 10px 10px 0px;
     margin-right: 10px;
+}
+
+#network:hover, #pulseaudio:hover, #pulseaudio.microphone:hover {
+    color: #b17fe4;
+    transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
